@@ -1,0 +1,8 @@
+.main{
+  width: 100%;
+  height: 100vh;
+  padding: 0 3rem;
+  display: flex;
+  background: linear-gradient(90deg, #C7C5F4, #776BCC);
+  /* justify-content: space-between; */
+}
